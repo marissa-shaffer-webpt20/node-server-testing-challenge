@@ -1,6 +1,6 @@
 const express = require("express")
 const cors = require("cors")
-const foodRouter = require("./data/food-router")
+const foodRouter = require("./food/food-router")
 
 const server = express()
 
